@@ -31,30 +31,31 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Customer Management API",
+    title: "Electronic Invoice Management",
     description:
-      "Developed an API for a customer management system with features for creating, updating, deleting, and querying customer information.",
+      "Developed a system for managing electronic invoices, including features for generating, storing, and tracking invoices.",
     url: "",
   },
   {
-    title: "Order Management System",
+    title: "Convenience Store",
     description:
-      "Built a system for managing orders, including order processing, inventory management, and reporting.",
+      "Built a comprehensive system for managing inventory, sales, and customer interactions for a convenience store.",
     url: "",
   },
   {
-    title: "Real-time Chat Application",
+    title: "Social Network",
     description:
-      "Created a real-time chat application using WebSocket for instant messaging between users.",
+      "Created a social networking platform, including user profiles, posts, and messaging.",
     url: "",
   },
   {
-    title: "Cloud Service Integration Project",
+    title: "Mobile Phone Store",
     description:
-      "Deployed an application on a cloud platform using services like AWS Lambda and DynamoDB to optimize performance.",
+      "Developed a system for managing sales, inventory, and customer interactions for a mobile phone store.",
     url: "",
   },
 ];
+
 
 
 const Portfolio = () => {

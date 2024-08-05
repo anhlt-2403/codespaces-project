@@ -31,30 +31,31 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Customer Management API",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed an API for a customer management system with features for creating, updating, deleting, and querying customer information.",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Order Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Built a system for managing orders, including order processing, inventory management, and reporting.",
+    url: "",
   },
   {
-    title: "My Resume Site",
+    title: "Real-time Chat Application",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a real-time chat application using WebSocket for instant messaging between users.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Cloud Service Integration Project",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Deployed an application on a cloud platform using services like AWS Lambda and DynamoDB to optimize performance.",
+    url: "",
   },
 ];
+
 
 const Portfolio = () => {
   return (

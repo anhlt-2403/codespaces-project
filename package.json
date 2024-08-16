@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://anhlt2003.github.io/codespaces-project",
+  "homepage": "http://anhlt-2403.github.io/codespaces-project",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://anhlt2003.github.io/codespaces-project'",
+    "build-gh": "parcel build --public-url 'https://anhlt-2403.github.io/codespaces-project'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

@@ -25,9 +25,9 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Le Tuan Anh",
-  title: "Tuan Anh CodeSpace",
+  title: "Backend Developer",
   email: "anhlt24032003@gmail.com",
-  gitHub: "anhlt2003",
+  gitHub: "anhlt-2403",
   instagram: "anhlt.2403",
   linkedIn: "",
   medium: "",
